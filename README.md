@@ -23,7 +23,7 @@ Un commentaire ? Une remarque ? Utilisez les GitHub [issues](https://docs.github
 
 Test 
 `
-GET test1\
+GET test1\n
 test2
 `
 
