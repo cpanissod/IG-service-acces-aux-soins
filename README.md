@@ -21,6 +21,12 @@ Ce repo "sample IG ANS" a été créé à partir du repo "sample-ig" de l'organi
 [A COMPLETER: notes supplémentaires pour le lecteur de la spec]
 Un commentaire ? Une remarque ? Utilisez les GitHub [issues](https://docs.github.com/fr/issues) pour indiquer vos propositions d'amélioration et de correction.
 
+Test 
+`
+GET test1\
+test2
+`
+
 ## Acronymes
 
 * IG : Implementation Guide
